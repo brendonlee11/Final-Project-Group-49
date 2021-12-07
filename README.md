@@ -1,9 +1,10 @@
 # Final-Project-Group-49
 
-# Team Name
-Safety Squad
 CMPINF0010 Final Project
 * What is the Best Neighborhood in Pittsburgh?
+
+# Team Name
+Safety Squad
 
 # Team Members Names and Email Adresses
 Carly Ukalovic (cju8@pitt.edu), Brendon Lee (bsl32@pitt.edu), Judge Murwin (email)
