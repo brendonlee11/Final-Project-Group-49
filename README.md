@@ -14,4 +14,4 @@ Carly Ukalovic (cju8@pitt.edu), Brendon Lee (bsl32@pitt.edu), Judge Murwin (emai
 
 COVID-19 Dataset - https://data.wprdc.org/dataset/allegheny-county-covid-19-tests-cases-and-deaths/resource/3869680f-8faa-4e8c-8c01-6aa1309c40ad
 # Abstract
-What is the best neighborhood? And How did you determine that answer?
+Overall, we have come to the conclusion that between three metrics measuring safety, least crime rates, least number of 311 calls, and least amount of COVID-19 cases, that Arlington Heights is the safest neighborhood to move to. In conjunction, Arlington Heights may also be the best neighborhood, depending on how important safety may be to a homeowner or resident within a neighborhood or municipality. For many, safety is the top priority, which makes Arlington Heights the best neighborhood to move to. We have come to this conclusion utilizing datasets, graphics, and three metrics mentioned above. We are confident that Arlington Heights is the best neighborhood, based these three metrics.
